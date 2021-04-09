@@ -1,3 +1,9 @@
+/** 
+    * Dice Rolling Simulator to see the probablity (Java Begineer) 
+    * @author Sachin Chhetri <sachinchhetri202@gmail.com>
+    * Use of Array, Random, Loop and if/else if clause.  
+    */
+
 import java.util.*;
 
 
